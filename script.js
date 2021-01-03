@@ -8,7 +8,7 @@ const maxRowSize = 16;
 var radTable = document.getElementById("radicals-table");
 
 /* Get the json file. */
-let requestURL = "https://github.com/erntan/erntan.github.io/blob/master/data.json";
+let requestURL = "https://github.com/erntan/hsk/blob/master/data.json";
 let request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = "json";
