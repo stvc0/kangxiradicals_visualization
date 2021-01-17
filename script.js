@@ -16,20 +16,21 @@ request.send();
 
 request.onload = function () {
   const charactersJSON = request.response;
-  const charactersObject = JSON.parse(charactersJSON);
+  // const charactersObject = JSON.parse(charactersJSON);
   // radTable.appendChild(charactersJSON);
+  createRadicalsTable(charactersJSON);
 }
 
 /* Need: rads["radicals"][i] */
 
 /* Create and populate the radicals table. */
-// function createRadicalsTable(obj) {
+function createRadicalsTable(obj) {
   // const radsJSON = charactersJSON["radicals"];
 
   for (let i = 0; i < numRadicals; i++) {
     const radDiv = document.createElement("div");
-    // radDiv.textContent = i;
-    radDiv.textContent = radsJSON[i].id;
+    radDiv.textContent = i;
+    // radDiv.textContent = radsJSON[i].id;
     radTable.appendChild(radDiv);
   }
-// }
+}
