@@ -8,18 +8,17 @@ const maxRowSize = 16;
 var radTable = document.getElementById("radicals-table");
 
 /* Get the json file. */
-let requestURL = "https://raw.githubusercontent.com/erntan/hanziradicals_visualization/master/data.json";
+let requestURL = "https://raw.githubusercontent.com/erntan/kangxiradicals_visualization/master/data.json";
 let request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = "json";
 request.send();
 
-
-// request.onload = function () {
-const charactersJSON = request.response;
-const charactersObject = JSON.parse(charactersJSON);
-radTable.appendChild(charactersJSON);
-// }
+request.onload = function () {
+  const charactersJSON = request.response;
+  const charactersObject = JSON.parse(charactersJSON);
+  // radTable.appendChild(charactersJSON);
+}
 
 /* Need: rads["radicals"][i] */
 
@@ -29,8 +28,8 @@ radTable.appendChild(charactersJSON);
 
   for (let i = 0; i < numRadicals; i++) {
     const radDiv = document.createElement("div");
-    radDiv.textContent = i;
-    // radDiv.textContent = radsJSON[i].id;
+    // radDiv.textContent = i;
+    radDiv.textContent = radsJSON[i].id;
     radTable.appendChild(radDiv);
   }
 // }
