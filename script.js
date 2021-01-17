@@ -17,11 +17,8 @@ request.send();
 
 // request.onload = function () {
 const charactersJSON = request.response;
-const characters = JSON.parse(charactersJSON);
-  // createRadicalsTable(charactersJSON);
-const printThis = document.createElement("p");
-printThis.textContent = characters;
-radTable.appendChild(printThis);
+const charactersObject = JSON.parse(charactersJSON);
+radTable.appendChild(charactersJSON);
 // }
 
 /* Need: rads["radicals"][i] */
