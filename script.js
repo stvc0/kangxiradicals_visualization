@@ -25,12 +25,12 @@ request.onload = function () {
 
 /* Create and populate the radicals table. */
 function createRadicalsTable(obj) {
-  // const radsJSON = charactersJSON["radicals"];
+  const radsJSON = obj["radicals"];
 
   for (let i = 0; i < numRadicals; i++) {
     const radDiv = document.createElement("div");
-    radDiv.textContent = i;
-    // radDiv.textContent = radsJSON[i].id;
+    // radDiv.textContent = i;
+    radDiv.textContent = radsJSON[i].character;
     radTable.appendChild(radDiv);
   }
 }
