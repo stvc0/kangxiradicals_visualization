@@ -28,7 +28,7 @@ body {
     }
 
     #radicals-table div {
-
+        padding-bottom: 1.5rem;
         flex-basis: 3rem;
     }
 }
