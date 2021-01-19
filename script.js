@@ -5,6 +5,10 @@ const maxRowSize = 16;
 
 var radTable = document.getElementById("radicals-table");
 var buttonArea = document.getElementById("buttons");
+const buttonChart = document.getElementById("button-chart");
+const buttonHistStroke = document.getElementById("button-histogram-stroke");
+const buttonHistFreq = document.getElementById("button-histogram-frequency");
+const buttonChunk = document.getElementById("button-chunk");
 
 var tableType = chart;
 
@@ -30,3 +34,11 @@ function createRadicalsTable(obj) {
     radTable.appendChild(radDiv);
   }
 }
+
+function createStrokeHistogram() {
+  
+}
+
+
+/** Add event listeners */
+buttonHistFreq.addEventListener("click", createStrokeHistogram());
