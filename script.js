@@ -1,11 +1,12 @@
-// var characters = JSON.parse(data);
-
-const numRadicals = 214;    // The number of Kangxi radicals.
-const maxStroke = 17;       // The maximum number of strokes a radical can have.
+const numRadicals = 214;    
+const maxStroke = 17;
 const minRowSize = 6;
 const maxRowSize = 16;
 
 var radTable = document.getElementById("radicals-table");
+var buttonArea = document.getElementById("buttons");
+
+var tableType = chart;
 
 /* Get the json file. */
 let requestURL = "https://raw.githubusercontent.com/erntan/kangxiradicals_visualization/master/data.json";
@@ -28,4 +29,15 @@ function createRadicalsTable(obj) {
     radDiv.textContent = radsJSON[i].character;
     radTable.appendChild(radDiv);
   }
+}
+
+/* Create the buttons that show the different tables. */
+function createButtons() {
+  var buttonT1 = document.createElement("button");
+
+  var buttonT2 = document.createElement("button");
+
+  var buttonT3 = document.createElement("button");
+
+  var buttonT4 = document.createElement("button");
 }
