@@ -10,8 +10,6 @@ body {
 #radicals-table {
     display: flex;
     flex-wrap: wrap;
-
-    max-width: 100%;
 }
 
 /*** ? Table cells ***/
@@ -20,4 +18,18 @@ body {
     min-height: 2rem;
 
     text-align: center;
+}
+
+@media (min-width: 1024px) {
+    #radicals-table {
+        max-width: 36rem;
+
+        font-size: 1.5rem;
+    }
+
+    #radicals-table div {
+        padding: .5rem;
+
+        flex-basis: 2rem;
+    }
 }
