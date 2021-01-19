@@ -20,7 +20,7 @@ body {
     text-align: center;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 720px) {
     #radicals-table {
         max-width: 36rem;
 
@@ -28,8 +28,7 @@ body {
     }
 
     #radicals-table div {
-        padding: .5rem;
 
-        flex-basis: 2rem;
+        flex-basis: 3rem;
     }
 }
