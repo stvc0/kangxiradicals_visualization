@@ -30,14 +30,3 @@ function createRadicalsTable(obj) {
     radTable.appendChild(radDiv);
   }
 }
-
-/* Create the buttons that show the different tables. */
-function createButtons() {
-  var buttonT1 = document.createElement("button");
-
-  var buttonT2 = document.createElement("button");
-
-  var buttonT3 = document.createElement("button");
-
-  var buttonT4 = document.createElement("button");
-}
