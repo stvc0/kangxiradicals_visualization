@@ -38,24 +38,22 @@ function createStrokeDivs() {
 function createRadicalsTable(obj) {
   const radsJSON = obj["radicals"];
 
-  createStrokeDivs();
-
   for (let i = 0; i < numRadicals; i++) {
     const radDiv = document.createElement("div");
+    radDiv.className = "rad-div";
     const currentRad = radsJSON[i];
     
-    radDiv.textContent = currentRad.character + currentRad.strokeCount;
+    radDiv.textContent = currentRad.character;
 
-    const strokeCount = currentRad.strokeCount;
-    const strokeDiv = document.getElementById( "stroke-div-" + strokeCount);
-    strokeDiv.appendChild(radDiv);
+    radTable.appendChild(radDiv);
   }
 }
 
 
 
 function createStrokeHistogram() {
-
+  createStrokeDivs();
+  
 }
 
 
