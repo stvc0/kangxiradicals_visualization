@@ -21,7 +21,8 @@ request.send();
 
 request.onload = function () {
   const charactersJSON = request.response;
-  createRadicalsTable(charactersJSON);
+  const radsJSON = charactersJSON["radicals"];
+  createRadicalsTable(radsJSON);
 }
 
 /* Create divs for the number of strokes */
@@ -36,12 +37,10 @@ function createStrokeDivs() {
 
 /* Create and populate the radicals table. */
 function createRadicalsTable(obj) {
-  const radsJSON = obj["radicals"];
-
   for (let i = 0; i < numRadicals; i++) {
     const radDiv = document.createElement("div");
     radDiv.className = "rad-div";
-    const currentRad = radsJSON[i];
+    const currentRad = obj[i];
     
     radDiv.textContent = currentRad.character;
 
@@ -53,7 +52,7 @@ function createRadicalsTable(obj) {
 
 function createStrokeHistogram() {
   createStrokeDivs();
-  
+
 }
 
 
