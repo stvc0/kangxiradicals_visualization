@@ -23,6 +23,7 @@ request.onload = function () {
   const charactersJSON = request.response;
   const radsJSON = charactersJSON["radicals"];
   createRadicalsTable(radsJSON);
+  // createStrokeHistogram(radsJSON);
 }
 
 /* Create divs for the number of strokes */
@@ -39,20 +40,23 @@ function createStrokeDivs() {
 function createRadicalsTable(obj) {
   for (let i = 0; i < numRadicals; i++) {
     const radDiv = document.createElement("div");
-    radDiv.className = "rad-div";
     const currentRad = obj[i];
-    
+
+    radDiv.className = "rad-div";
+    radDiv.classList.add("rad-stroke-" + currentRad.strokeCount);
     radDiv.textContent = currentRad.character;
 
     radTable.appendChild(radDiv);
   }
 }
 
-
-
-function createStrokeHistogram() {
+function createStrokeHistogram(obj) {
   createStrokeDivs();
-
+  let i = 1;
+  // while (i <= maxStroke && )
+  for (let i = 0; i < numRadicals; i++) {
+    const radDiv = document.createElement("div");
+  }
 }
 
 
