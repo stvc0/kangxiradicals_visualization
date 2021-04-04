@@ -43,7 +43,7 @@ function createRadicalsTable(obj) {
     const currentRad = obj[i];
 
     radDiv.className = "rad-div";
-    radDiv.classList.add("rad-stroke-" + currentRad.strokeCount);
+    radDiv.classList.add("rad-stroke-" + currentRad.strokeCount); /** Causes multiple divs of the same class to be created */
     radDiv.textContent = currentRad.character;
 
     radTable.appendChild(radDiv);
