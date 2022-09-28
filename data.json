@@ -1,1285 +1,1500 @@
-{"radicals":[{"id": 1,
-    "character": "\u2F00",
-    "pinyin": "yi1",
-    "strokeCount": 1,
-    "frequency": 42
-},
-{"id": 2,
-    "character": "\u2F01",
-    "pinyin": "gun3",
-    "strokeCount": 1,
-    "frequency": 21
-},
-{"id": 3,
-    "character": "\u2F02",
-    "pinyin": "zhu4",
-    "strokeCount": 1,
-    "frequency": 10
-},
-{"id": 4,
-    "character": "\u2F03",
-    "pinyin": "pie3",
-    "strokeCount": 1,
-    "frequency": 33
-},
-{"id": 5,
-    "character": "\u2F04",
-    "pinyin": "yi3",
-    "strokeCount": 1,
-    "frequency": 42
-},
-{"id": 6,
-    "character": "\u2F05",
-    "pinyin": "jue2",
-    "strokeCount": 1,
-    "frequency": 19
-},
-{"id": 7,
-    "character": "\u2F06",
-    "pinyin": "er4",
-    "strokeCount": 2,
-    "frequency": 29
-},
-{"id": 8,
-    "character": "\u2F07",
-    "pinyin": "tou2",
-    "strokeCount": 2,
-    "frequency": 38
-},
-{"id": 9,
-    "character": "\u2F08",
-    "pinyin": "ren2",
-    "strokeCount": 2,
-    "frequency": 794
-},
-{"id": 10,
-    "character": "\u2F09",
-    "pinyin": "er2",
-    "strokeCount": 2,
-    "frequency": 52
-},
-{"id": 11,
-    "character": "\u2F0A",
-    "pinyin": "ru4",
-    "strokeCount": 2,
-    "frequency": 28
-},
-{"id": 12,
-    "character": "\u2F0B",
-    "pinyin": "ba1",
-    "strokeCount": 2,
-    "frequency": 44
-},
-{"id": 13,
-    "character": "\u2F0C",
-    "pinyin": "jiong1",
-    "strokeCount": 2,
-    "frequency": 50
-},
-{"id": 14,
-    "character": "\u2F0D",
-    "pinyin": "mi4",
-    "strokeCount": 2,
-    "frequency": 30
-},
-{"id": 15,
-    "character": "\u2F0E",
-    "pinyin": "bing1",
-    "strokeCount": 2,
-    "frequency": 115
-},
-{"id": 16,
-    "character": "\u2F0F",
-    "pinyin": "ji1",
-    "strokeCount": 2,
-    "frequency": 38
-},
-{"id": 17,
-    "character": "\u2F10",
-    "pinyin": "kan3",
-    "strokeCount": 2,
-    "frequency": 23
-},
-{"id": 18,
-    "character": "\u2F11",
-    "pinyin": "dao1",
-    "strokeCount": 2,
-    "frequency": 377
-},
-{"id": 19,
-    "character": "\u2F12",
-    "pinyin": "li4",
-    "strokeCount": 2,
-    "frequency": 163
-},
-{"id": 20,
-    "character": "\u2F13",
-    "pinyin": "bao1",
-    "strokeCount": 2,
-    "frequency": 64
-},
-{"id": 21,
-    "character": "\u2F14",
-    "pinyin": "",
-    "strokeCount": 1,
-    "frequency": 19
-},
-{"id": 22,
-    "character": "\u2F15",
-    "pinyin": "bi3",
-    "strokeCount": 2,
-    "frequency": 64
-},
-{"id": 23,
-    "character": "\u2F16",
-    "pinyin": "xi3",
-    "strokeCount": 2,
-    "frequency": 17
-},
-{"id": 24,
-    "character": "\u2F17",
-    "pinyin": "shi2",
-    "strokeCount": 2,
-    "frequency": 55
-},
-{"id": 25,
-    "character": "\u2F18",
-    "pinyin": "bu3",
-    "strokeCount": 2,
-    "frequency": 45
-},
-{"id": 26,
-    "character": "\u2F19",
-    "pinyin": "jie2",
-    "strokeCount": 2,
-    "frequency": 40
-},
-{"id": 27,
-    "character": "\u2F1A",
-    "pinyin": "han3",
-    "strokeCount": 2,
-    "frequency": 129
-},
-{"id": 28,
-    "character": "\u2F1B",
-    "pinyin": "si1",
-    "strokeCount": 2,
-    "frequency": 40
-},
-{"id": 29,
-    "character": "\u2F1C",
-    "pinyin": "you4",
-    "strokeCount": 2,
-    "frequency": 91
-},
-{"id": 30,
-    "character": "\u2F1D",
-    "pinyin": "kou3",
-    "strokeCount": 3,
-    "frequency": 1146
-},
-{"id": 31,
-    "character": "\u2F1E",
-    "pinyin": "wei2",
-    "strokeCount": 3,
-    "frequency": 118
-},
-{"id": 32,
-    "character": "\u2F1F",
-    "pinyin": "tu3",
-    "strokeCount": 3,
-    "frequency": 580
-},
-{"id": 33,
-    "character": "\u2F20",
-    "pinyin": "shi4",
-    "strokeCount": 3,
-    "frequency": 24
-},
-{"id": 34,
-    "character": "\u2F21",
-    "pinyin": "zhi3",
-    "strokeCount": 3,
-    "frequency": 11
-},
-{"id": 35,
-    "character": "\u2F22",
-    "pinyin": "sui1",
-    "strokeCount": 3,
-    "frequency": 23
-},
-{"id": 36,
-    "character": "\u2F23",
-    "pinyin": "xi1",
-    "strokeCount": 3,
-    "frequency": 34
-},
-{"id": 37,
-    "character": "\u2F24",
-    "pinyin": "da4",
-    "strokeCount": 3,
-    "frequency": 132
-},
-{"id": 38,
-    "character": "\u2F25",
-    "pinyin": "nv3",
-    "strokeCount": 3,
-    "frequency": 681
-},
-{"id": 39,
-    "character": "\u2F26",
-    "pinyin": "zi3",
-    "strokeCount": 3,
-    "frequency": 83
-},
-{"id": 40,
-    "character": "\u2F27",
-    "pinyin": "mian2",
-    "strokeCount": 3,
-    "frequency": 246
-},
-{"id": 41,
-    "character": "\u2F28",
-    "pinyin": "cun4",
-    "strokeCount": 3,
-    "frequency": 40
-},
-{"id": 42,
-    "character": "\u2F29",
-    "pinyin": "xiao3",
-    "strokeCount": 3,
-    "frequency": 41
-},
-{"id": 43,
-    "character": "\u2F2A",
-    "pinyin": "wang1",
-    "strokeCount": 3,
-    "frequency": 66
-},
-{"id": 44,
-    "character": "\u2F2B",
-    "pinyin": "shi1",
-    "strokeCount": 3,
-    "frequency": 148
-},
-{"id": 45,
-    "character": "\u2F2C",
-    "pinyin": "che4",
-    "strokeCount": 3,
-    "frequency": 38
-},
-{"id": 46,
-    "character": "\u2F2D",
-    "pinyin": "shan1",
-    "strokeCount": 3,
-    "frequency": 636
-},
-{"id": 47,
-    "character": "\u2F2E",
-    "pinyin": "chuan1",
-    "strokeCount": 3,
-    "frequency": 26
-},
-{"id": 48,
-    "character": "\u2F2F",
-    "pinyin": "gong1",
-    "strokeCount": 3,
-    "frequency": 17
-},
-{"id": 49,
-    "character": "\u2F30",
-    "pinyin": "ji3",
-    "strokeCount": 3,
-    "frequency": 20
-},
-{"id": 50,
-    "character": "\u2F31",
-    "pinyin": "jin1",
-    "strokeCount": 3,
-    "frequency": 295
-},
-{"id": 51,
-    "character": "\u2F32",
-    "pinyin": "gan1",
-    "strokeCount": 3,
-    "frequency": 9
-},
-{"id": 52,
-    "character": "\u2F33",
-    "pinyin": "yao1",
-    "strokeCount": 3,
-    "frequency": 50
-},
-{"id": 53,
-    "character": "\u2F34",
-    "pinyin": "guang3",
-    "strokeCount": 3,
-    "frequency": 15
-},
-{"id": 54,
-    "character": "\u2F35",
-    "pinyin": "yin3",
-    "strokeCount": 3,
-    "frequency": 9
-},
-{"id": 55,
-    "character": "\u2F36",
-    "pinyin": "gong3",
-    "strokeCount": 3,
-    "frequency": 50
-},
-{"id": 56,
-    "character": "\u2F37",
-    "pinyin": "yi4",
-    "strokeCount": 3,
-    "frequency": 15
-},
-{"id": 57,
-    "character": "\u2F38",
-    "pinyin": "gong1",
-    "strokeCount": 3,
-    "frequency": 165
-},
-{"id": 58,
-    "character": "\u2F39",
-    "pinyin": "ji4",
-    "strokeCount": 3,
-    "frequency": 25
-},
-{"id": 59,
-    "character": "\u2F3A",
-    "pinyin": "shan1",
-    "strokeCount": 3,
-    "frequency": 62
-},
-{"id": 60,
-    "character": "\u2F3B",
-    "pinyin": "chi4",
-    "strokeCount": 3,
-    "frequency": 215
-},
-{"id": 61,
-    "character": "\u2F3C",
-    "pinyin": "xin1",
-    "strokeCount": 4,
-    "frequency": 1115
-},
-{"id": 62,
-    "character": "\u2F3D",
-    "pinyin": "ge1",
-    "strokeCount": 4,
-    "frequency": 116
-},
-{"id": 63,
-    "character": "\u2F3E",
-    "pinyin": "hu4",
-    "strokeCount": 4,
-    "frequency": 44
-},
-{"id": 64,
-    "character": "\u2F3F",
-    "pinyin": "shou3",
-    "strokeCount": 4,
-    "frequency": 1203
-},
-{"id": 65,
-    "character": "\u2F40",
-    "pinyin": "zhi1",
-    "strokeCount": 4,
-    "frequency": 26
-},
-{"id": 66,
-    "character": "\u2F41",
-    "pinyin": "pu1",
-    "strokeCount": 4,
-    "frequency": 296
-},
-{"id": 67,
-    "character": "\u2F42",
-    "pinyin": "wen2",
-    "strokeCount": 4,
-    "frequency": 26
-},
-{"id": 68,
-    "character": "\u2F43",
-    "pinyin": "dou3",
-    "strokeCount": 4,
-    "frequency": 32
-},
-{"id": 69,
-    "character": "\u2F44",
-    "pinyin": "jin1",
-    "strokeCount": 4,
-    "frequency": 55
-},
-{"id": 70,
-    "character": "\u2F45",
-    "pinyin": "fang1",
-    "strokeCount": 4,
-    "frequency": 92
-},
-{"id": 71,
-    "character": "\u2F46",
-    "pinyin": "wu2",
-    "strokeCount": 4,
-    "frequency": 12
-},
-{"id": 72,
-    "character": "\u2F47",
-    "pinyin": "ri4",
-    "strokeCount": 4,
-    "frequency": 453
-},
-{"id": 73,
-    "character": "\u2F48",
-    "pinyin": "yue1",
-    "strokeCount": 4,
-    "frequency": 37
-},
-{"id": 74,
-    "character": "\u2F49",
-    "pinyin": "yue4",
-    "strokeCount": 4,
-    "frequency": 69
-},
-{"id": 75,
-    "character": "\u2F4A",
-    "pinyin": "mu4",
-    "strokeCount": 4,
-    "frequency": 1369
-},
-{"id": 76,
-    "character": "\u2F4B",
-    "pinyin": "qian4",
-    "strokeCount": 4,
-    "frequency": 235
-},
-{"id": 77,
-    "character": "\u2F4C",
-    "pinyin": "zhi3",
-    "strokeCount": 4,
-    "frequency": 99
-},
-{"id": 78,
-    "character": "\u2F4D",
-    "pinyin": "dai3",
-    "strokeCount": 4,
-    "frequency": 231
-},
-{"id": 79,
-    "character": "\u2F4E",
-    "pinyin": "shu1",
-    "strokeCount": 4,
-    "frequency": 93
-},
-{"id": 80,
-    "character": "\u2F4F",
-    "pinyin": "wu2",
-    "strokeCount": 4,
-    "frequency": 16
-},
-{"id": 81,
-    "character": "\u2F50",
-    "pinyin": "bi3",
-    "strokeCount": 4,
-    "frequency": 21
-},
-{"id": 82,
-    "character": "\u2F51",
-    "pinyin": "mao2",
-    "strokeCount": 4,
-    "frequency": 211
-},
-{"id": 83,
-    "character": "\u2F52",
-    "pinyin": "shi4",
-    "strokeCount": 4,
-    "frequency": 10
-},
-{"id": 84,
-    "character": "\u2F53",
-    "pinyin": "qi4",
-    "strokeCount": 4,
-    "frequency": 17
-},
-{"id": 85,
-    "character": "\u2F54",
-    "pinyin": "shui3",
-    "strokeCount": 4,
-    "frequency": 1595
-},
-{"id": 86,
-    "character": "\u2F55",
-    "pinyin": "huo3",
-    "strokeCount": 4,
-    "frequency": 639
-},
-{"id": 87,
-    "character": "\u2F56",
-    "pinyin": "zhao3",
-    "strokeCount": 4,
-    "frequency": 36
-},
-{"id": 88,
-    "character": "\u2F57",
-    "pinyin": "fu4",
-    "strokeCount": 4,
-    "frequency": 10
-},
-{"id": 89,
-    "character": "\u2F58",
-    "pinyin": "yao2",
-    "strokeCount": 4,
-    "frequency": 16
-},
-{"id": 90,
-    "character": "\u2F59",
-    "pinyin": "qiang2",
-    "strokeCount": 4,
-    "frequency": 48
-},
-{"id": 91,
-    "character": "\u2F5A",
-    "pinyin": "pian4",
-    "strokeCount": 4,
-    "frequency": 77
-},
-{"id": 92,
-    "character": "\u2F5B",
-    "pinyin": "ya2",
-    "strokeCount": 4,
-    "frequency": 9
-},
-{"id": 93,
-    "character": "\u2F5C",
-    "pinyin": "niu2",
-    "strokeCount": 4,
-    "frequency": 233
-},
-{"id": 94,
-    "character": "\u2F5D",
-    "pinyin": "quan3",
-    "strokeCount": 4,
-    "frequency": 444
-},
-{"id": 95,
-    "character": "\u2F5E",
-    "pinyin": "xuan2",
-    "strokeCount": 5,
-    "frequency": 6
-},
-{"id": 96,
-    "character": "\u2F5F",
-    "pinyin": "yu4",
-    "strokeCount": 5,
-    "frequency": 473
-},
-{"id": 97,
-    "character": "\u2F60",
-    "pinyin": "gua1",
-    "strokeCount": 5,
-    "frequency": 55
-},
-{"id": 98,
-    "character": "\u2F61",
-    "pinyin": "wa3",
-    "strokeCount": 5,
-    "frequency": 174
-},
-{"id": 99,
-    "character": "\u2F62",
-    "pinyin": "gan1",
-    "strokeCount": 5,
-    "frequency": 22
-},
-{"id": 100,
-    "character": "\u2F63",
-    "pinyin": "sheng1",
-    "strokeCount": 5,
-    "frequency": 22
-},
-{"id": 101,
-    "character": "\u2F64",
-    "pinyin": "yong4",
-    "strokeCount": 5,
-    "frequency": 10
-},
-{"id": 102,
-    "character": "\u2F65",
-    "pinyin": "tian2",
-    "strokeCount": 5,
-    "frequency": 192
-},
-{"id": 103,
-    "character": "\u2F66",
-    "pinyin": "pi3",
-    "strokeCount": 5,
-    "frequency": 15
-},
-{"id": 104,
-    "character": "\u2F67",
-    "pinyin": "ne4",
-    "strokeCount": 5,
-    "frequency": 526
-},
-{"id": 105,
-    "character": "\u2F68",
-    "pinyin": "bo1",
-    "strokeCount": 5,
-    "frequency": 15
-},
-{"id": 106,
-    "character": "\u2F69",
-    "pinyin": "bai2",
-    "strokeCount": 5,
-    "frequency": 109
-},
-{"id": 107,
-    "character": "\u2F6A",
-    "pinyin": "pi2",
-    "strokeCount": 5,
-    "frequency": 94
-},
-{"id": 108,
-    "character": "\u2F6B",
-    "pinyin": "min3",
-    "strokeCount": 5,
-    "frequency": 129
-},
-{"id": 109,
-    "character": "\u2F6C",
-    "pinyin": "mu4",
-    "strokeCount": 5,
-    "frequency": 647
-},
-{"id": 110,
-    "character": "\u2F6D",
-    "pinyin": "mao2",
-    "strokeCount": 5,
-    "frequency": 65
-},
-{"id": 111,
-    "character": "\u2F6E",
-    "pinyin": "shi3",
-    "strokeCount": 5,
-    "frequency": 64
-},
-{"id": 112,
-    "character": "\u2F6F",
-    "pinyin": "shi2",
-    "strokeCount": 5,
-    "frequency": 499
-},
-{"id": 113,
-    "character": "\u2F70",
-    "pinyin": "shi4",
-    "strokeCount": 5,
-    "frequency": 213
-},
-{"id": 114,
-    "character": "\u2F71",
-    "pinyin": "rou2",
-    "strokeCount": 5,
-    "frequency": 12
-},
-{"id": 115,
-    "character": "\u2F72",
-    "pinyin": "he2",
-    "strokeCount": 5,
-    "frequency": 431
-},
-{"id": 116,
-    "character": "\u2F73",
-    "pinyin": "xue2",
-    "strokeCount": 5,
-    "frequency": 298
-},
-{"id": 117,
-    "character": "\u2F74",
-    "pinyin": "li4",
-    "strokeCount": 5,
-    "frequency": 101
-},
-{"id": 118,
-    "character": "\u2F75",
-    "pinyin": "zhu2",
-    "strokeCount": 6,
-    "frequency": 953
-},
-{"id": 119,
-    "character": "\u2F76",
-    "pinyin": "mi3",
-    "strokeCount": 6,
-    "frequency": 318
-},
-{"id": 120,
-    "character": "\u2F77",
-    "pinyin": "mi4",
-    "strokeCount": 6,
-    "frequency": 823
-},
-{"id": 121,
-    "character": "\u2F78",
-    "pinyin": "fou3",
-    "strokeCount": 6,
-    "frequency": 77
-},
-{"id": 122,
-    "character": "\u2F79",
-    "pinyin": "wang3",
-    "strokeCount": 6,
-    "frequency": 163
-},
-{"id": 123,
-    "character": "\u2F7A",
-    "pinyin": "yang2",
-    "strokeCount": 6,
-    "frequency": 156
-},
-{"id": 124,
-    "character": "\u2F7B",
-    "pinyin": "yu3",
-    "strokeCount": 6,
-    "frequency": 220
-},
-{"id": 125,
-    "character": "\u2F7C",
-    "pinyin": "lao3",
-    "strokeCount": 6,
-    "frequency": 22
-},
-{"id": 126,
-    "character": "\u2F7D",
-    "pinyin": "er2",
-    "strokeCount": 6,
-    "frequency": 22
-},
-{"id": 127,
-    "character": "\u2F7E",
-    "pinyin": "lei3",
-    "strokeCount": 6,
-    "frequency": 84
-},
-{"id": 128,
-    "character": "\u2F7F",
-    "pinyin": "er3",
-    "strokeCount": 6,
-    "frequency": 172
-},
-{"id": 129,
-    "character": "\u2F80",
-    "pinyin": "yu4",
-    "strokeCount": 6,
-    "frequency": 19
-},
-{"id": 130,
-    "character": "\u2F81",
-    "pinyin": "rou4",
-    "strokeCount": 6,
-    "frequency": 674
-},
-{"id": 131,
-    "character": "\u2F82",
-    "pinyin": "chen2",
-    "strokeCount": 6,
-    "frequency": 16
-},
-{"id": 132,
-    "character": "\u2F83",
-    "pinyin": "zi4",
-    "strokeCount": 6,
-    "frequency": 34
-},
-{"id": 133,
-    "character": "\u2F84",
-    "pinyin": "zhi4",
-    "strokeCount": 6,
-    "frequency": 24
-},
-{"id": 134,
-    "character": "\u2F85",
-    "pinyin": "jiu4",
-    "strokeCount": 6,
-    "frequency": 71
-},
-{"id": 135,
-    "character": "\u2F86",
-    "pinyin": "she2",
-    "strokeCount": 6,
-    "frequency": 31
-},
-{"id": 136,
-    "character": "\u2F87",
-    "pinyin": "chuan3",
-    "strokeCount": 6,
-    "frequency": 10
-},
-{"id": 137,
-    "character": "\u2F88",
-    "pinyin": "zhou1",
-    "strokeCount": 6,
-    "frequency": 197
-},
-{"id": 138,
-    "character": "\u2F89",
-    "pinyin": "gen4",
-    "strokeCount": 6,
-    "frequency": 5
-},
-{"id": 139,
-    "character": "\u2F8A",
-    "pinyin": "se4",
-    "strokeCount": 6,
-    "frequency": 21
-},
-{"id": 140,
-    "character": "\u2F8B",
-    "pinyin": "cao3",
-    "strokeCount": 6,
-    "frequency": 1902
-},
-{"id": 141,
-    "character": "\u2F8C",
-    "pinyin": "hu1",
-    "strokeCount": 6,
-    "frequency": 114
-},
-{"id": 142,
-    "character": "\u2F8D",
-    "pinyin": "chong2",
-    "strokeCount": 6,
-    "frequency": 1067
-},
-{"id": 143,
-    "character": "\u2F8E",
-    "pinyin": "xue4",
-    "strokeCount": 6,
-    "frequency": 60
-},
-{"id": 144,
-    "character": "\u2F8F",
-    "pinyin": "xing2",
-    "strokeCount": 6,
-    "frequency": 53
-},
-{"id": 145,
-    "character": "\u2F90",
-    "pinyin": "yi1",
-    "strokeCount": 6,
-    "frequency": 607
-},
-{"id": 146,
-    "character": "\u2F91",
-    "pinyin": "ya4",
-    "strokeCount": 6,
-    "frequency": 29
-},
-{"id": 147,
-    "character": "\u2F92",
-    "pinyin": "jian4",
-    "strokeCount": 7,
-    "frequency": 161
-},
-{"id": 148,
-    "character": "\u2F93",
-    "pinyin": "jiao3",
-    "strokeCount": 7,
-    "frequency": 158
-},
-{"id": 149,
-    "character": "\u2F94",
-    "pinyin": "yan2",
-    "strokeCount": 7,
-    "frequency": 861
-},
-{"id": 150,
-    "character": "\u2F95",
-    "pinyin": "gu3",
-    "strokeCount": 7,
-    "frequency": 54
-},
-{"id": 151,
-    "character": "\u2F96",
-    "pinyin": "dou4",
-    "strokeCount": 7,
-    "frequency": 68
-},
-{"id": 152,
-    "character": "\u2F97",
-    "pinyin": "shi3",
-    "strokeCount": 7,
-    "frequency": 148
-},
-{"id": 153,
-    "character": "\u2F98",
-    "pinyin": "zhi4",
-    "strokeCount": 7,
-    "frequency": 140
-},
-{"id": 154,
-    "character": "\u2F99",
-    "pinyin": "bei4",
-    "strokeCount": 7,
-    "frequency": 277
-},
-{"id": 155,
-    "character": "\u2F9A",
-    "pinyin": "chi4",
-    "strokeCount": 7,
-    "frequency": 31
-},
-{"id": 156,
-    "character": "\u2F9B",
-    "pinyin": "zou3",
-    "strokeCount": 7,
-    "frequency": 285
-},
-{"id": 157,
-    "character": "\u2F9C",
-    "pinyin": "zu2",
-    "strokeCount": 7,
-    "frequency": 580
-},
-{"id": 158,
-    "character": "\u2F9D",
-    "pinyin": "shen1",
-    "strokeCount": 7,
-    "frequency": 97
-},
-{"id": 159,
-    "character": "\u2F9E",
-    "pinyin": "che1",
-    "strokeCount": 7,
-    "frequency": 361
-},
-{"id": 160,
-    "character": "\u2F9F",
-    "pinyin": "xin1",
-    "strokeCount": 7,
-    "frequency": 36
-},
-{"id": 161,
-    "character": "\u2FA0",
-    "pinyin": "chen2",
-    "strokeCount": 7,
-    "frequency": 15
-},
-{"id": 162,
-    "character": "\u2FA1",
-    "pinyin": "chuo4",
-    "strokeCount": 7,
-    "frequency": 381
-},
-{"id": 163,
-    "character": "\u2FA2",
-    "pinyin": "yi4",
-    "strokeCount": 7,
-    "frequency": 350
-},
-{"id": 164,
-    "character": "\u2FA3",
-    "pinyin": "you3",
-    "strokeCount": 7,
-    "frequency": 290
-},
-{"id": 165,
-    "character": "\u2FA4",
-    "pinyin": "bian4",
-    "strokeCount": 7,
-    "frequency": 14
-},
-{"id": 166,
-    "character": "\u2FA5",
-    "pinyin": "li3",
-    "strokeCount": 7,
-    "frequency": 14
-},
-{"id": 167,
-    "character": "\u2FA6",
-    "pinyin": "jin1",
-    "strokeCount": 8,
-    "frequency": 806
-},
-{"id": 168,
-    "character": "\u2FA7",
-    "pinyin": "chang2",
-    "strokeCount": 8,
-    "frequency": 55
-},
-{"id": 169,
-    "character": "\u2FA8",
-    "pinyin": "men2",
-    "strokeCount": 8,
-    "frequency": 246
-},
-{"id": 170,
-    "character": "\u2FA9",
-    "pinyin": "fu4",
-    "strokeCount": 8,
-    "frequency": 348
-},
-{"id": 171,
-    "character": "\u2FAA",
-    "pinyin": "li4",
-    "strokeCount": 8,
-    "frequency": 12
-},
-{"id": 172,
-    "character": "\u2FAB",
-    "pinyin": "zhui1",
-    "strokeCount": 8,
-    "frequency": 233
-},
-{"id": 173,
-    "character": "\u2FAC",
-    "pinyin": "yu3",
-    "strokeCount": 8,
-    "frequency": 298
-},
-{"id": 174,
-    "character": "\u2FAD",
-    "pinyin": "qing1",
-    "strokeCount": 8,
-    "frequency": 17
-},
-{"id": 175,
-    "character": "\u2FAE",
-    "pinyin": "fei1",
-    "strokeCount": 8,
-    "frequency": 25
-},
-{"id": 176,
-    "character": "\u2FAF",
-    "pinyin": "mian4",
-    "strokeCount": 8,
-    "frequency": 66
-},
-{"id": 177,
-    "character": "\u2FB0",
-    "pinyin": "ge2",
-    "strokeCount": 9,
-    "frequency": 305
-},
-{"id": 178,
-    "character": "\u2FB1",
-    "pinyin": "wei2",
-    "strokeCount": 9,
-    "frequency": 100
-},
-{"id": 179,
-    "character": "\u2FB2",
-    "pinyin": "jiu3",
-    "strokeCount": 9,
-    "frequency": 20
-},
-{"id": 180,
-    "character": "\u2FB3",
-    "pinyin": "yin1",
-    "strokeCount": 9,
-    "frequency": 43
-},
-{"id": 181,
-    "character": "\u2FB4",
-    "pinyin": "ye4",
-    "strokeCount": 9,
-    "frequency": 372
-},
-{"id": 182,
-    "character": "\u2FB5",
-    "pinyin": "feng1",
-    "strokeCount": 9,
-    "frequency": 182
-},
-{"id": 183,
-    "character": "\u2FB6",
-    "pinyin": "fei1",
-    "strokeCount": 9,
-    "frequency": 92
-},
-{"id": 184,
-    "character": "\u2FB7",
-    "pinyin": "shi2",
-    "strokeCount": 9,
-    "frequency": 403
-},
-{"id": 185,
-    "character": "\u2FB8",
-    "pinyin": "shou3",
-    "strokeCount": 9,
-    "frequency": 20
-},
-{"id": 186,
-    "character": "\u2FB9",
-    "pinyin": "xiang1",
-    "strokeCount": 9,
-    "frequency": 37
-},
-{"id": 187,
-    "character": "\u2FBA",
-    "pinyin": "ma3",
-    "strokeCount": 10,
-    "frequency": 472
-},
-{"id": 188,
-    "character": "\u2FBB",
-    "pinyin": "gu3",
-    "strokeCount": 10,
-    "frequency": 185
-},
-{"id": 189,
-    "character": "\u2FBC",
-    "pinyin": "gao1",
-    "strokeCount": 10,
-    "frequency": 34
-},
-{"id": 190,
-    "character": "\u2FBD",
-    "pinyin": "biao1",
-    "strokeCount": 10,
-    "frequency": 243
-},
-{"id": 191,
-    "character": "\u2FBE",
-    "pinyin": "dou4",
-    "strokeCount": 10,
-    "frequency": 23
-},
-{"id": 192,
-    "character": "\u2FBF",
-    "pinyin": "chang4",
-    "strokeCount": 10,
-    "frequency": 8
-},
-{"id": 193,
-    "character": "\u2FC0",
-    "pinyin": "li4",
-    "strokeCount": 10,
-    "frequency": 73
-},
-{"id": 194,
-    "character": "\u2FC1",
-    "pinyin": "gui3",
-    "strokeCount": 10,
-    "frequency": 141
-},
-{"id": 195,
-    "character": "\u2FC2",
-    "pinyin": "yu2",
-    "strokeCount": 11,
-    "frequency": 571
-},
-{"id": 196,
-    "character": "\u2FC3",
-    "pinyin": "niao3",
-    "strokeCount": 11,
-    "frequency": 750
-},
-{"id": 197,
-    "character": "\u2FC4",
-    "pinyin": "lu3",
-    "strokeCount": 11,
-    "frequency": 44
-},
-{"id": 198,
-    "character": "\u2FC5",
-    "pinyin": "lu4",
-    "strokeCount": 11,
-    "frequency": 104
-},
-{"id": 199,
-    "character": "\u2FC6",
-    "pinyin": "mai4",
-    "strokeCount": 11,
-    "frequency": 131
-},
-{"id": 200,
-    "character": "\u2FC7",
-    "pinyin": "ma2",
-    "strokeCount": 11,
-    "frequency": 34
-},
-{"id": 201,
-    "character": "\u2FC8",
-    "pinyin": "huang2",
-    "strokeCount": 11,
-    "frequency": 42
-},
-{"id": 202,
-    "character": "\u2FC9",
-    "pinyin": "shu3",
-    "strokeCount": 11,
-    "frequency": 46
-},
-{"id": 203,
-    "character": "\u2FCA",
-    "pinyin": "hei1",
-    "strokeCount": 12,
-    "frequency": 172
-},
-{"id": 204,
-    "character": "\u2FCB",
-    "pinyin": "zhi3",
-    "strokeCount": 12,
-    "frequency": 8
-},
-{"id": 205,
-    "character": "\u2FCC",
-    "pinyin": "min3",
-    "strokeCount": 13,
-    "frequency": 40
-},
-{"id": 206,
-    "character": "\u2FCD",
-    "pinyin": "ding3",
-    "strokeCount": 13,
-    "frequency": 14
-},
-{"id": 207,
-    "character": "\u2FCE",
-    "pinyin": "gu3",
-    "strokeCount": 13,
-    "frequency": 46
-},
-{"id": 208,
-    "character": "\u2FCF",
-    "pinyin": "shu3",
-    "strokeCount": 13,
-    "frequency": 92
-},
-{"id": 209,
-    "character": "\u2FD0",
-    "pinyin": "bi2",
-    "strokeCount": 13,
-    "frequency": 49
-},
-{"id": 210,
-    "character": "\u2FD1",
-    "pinyin": "qi2",
-    "strokeCount": 14,
-    "frequency": 18
-},
-{"id": 211,
-    "character": "\u2FD2",
-    "pinyin": "chi3",
-    "strokeCount": 15,
-    "frequency": 162
-},
-{"id": 212,
-    "character": "\u2FD3",
-    "pinyin": "long2",
-    "strokeCount": 16,
-    "frequency": 14
-},
-{"id": 213,
-    "character": "\u2FD4",
-    "pinyin": "gui1",
-    "strokeCount": 16,
-    "frequency": 24
-},
-{"id": 214,
-    "character": "\u2FD5",
-    "pinyin": "yue4",
-    "strokeCount": 17,
-    "frequency": 19
-} 
-]}
+[
+    {
+        "id": 1,
+        "character": "\u2F00",
+        "pinyin": "yi1",
+        "strokeCount": 1,
+        "frequency": 42
+    },
+    {
+        "id": 2,
+        "character": "\u2F01",
+        "pinyin": "gun3",
+        "strokeCount": 1,
+        "frequency": 21
+    },
+    {
+        "id": 3,
+        "character": "\u2F02",
+        "pinyin": "zhu4",
+        "strokeCount": 1,
+        "frequency": 10
+    },
+    {
+        "id": 4,
+        "character": "\u2F03",
+        "pinyin": "pie3",
+        "strokeCount": 1,
+        "frequency": 33
+    },
+    {
+        "id": 5,
+        "character": "\u2F04",
+        "pinyin": "yi3",
+        "strokeCount": 1,
+        "frequency": 42
+    },
+    {
+        "id": 6,
+        "character": "\u2F05",
+        "pinyin": "jue2",
+        "strokeCount": 1,
+        "frequency": 19
+    },
+    {
+        "id": 7,
+        "character": "\u2F06",
+        "pinyin": "er4",
+        "strokeCount": 2,
+        "frequency": 29
+    },
+    {
+        "id": 8,
+        "character": "\u2F07",
+        "pinyin": "tou2",
+        "strokeCount": 2,
+        "frequency": 38
+    },
+    {
+        "id": 9,
+        "character": "\u2F08",
+        "pinyin": "ren2",
+        "strokeCount": 2,
+        "frequency": 794
+    },
+    {
+        "id": 10,
+        "character": "\u2F09",
+        "pinyin": "er2",
+        "strokeCount": 2,
+        "frequency": 52
+    },
+    {
+        "id": 11,
+        "character": "\u2F0A",
+        "pinyin": "ru4",
+        "strokeCount": 2,
+        "frequency": 28
+    },
+    {
+        "id": 12,
+        "character": "\u2F0B",
+        "pinyin": "ba1",
+        "strokeCount": 2,
+        "frequency": 44
+    },
+    {
+        "id": 13,
+        "character": "\u2F0C",
+        "pinyin": "jiong1",
+        "strokeCount": 2,
+        "frequency": 50
+    },
+    {
+        "id": 14,
+        "character": "\u2F0D",
+        "pinyin": "mi4",
+        "strokeCount": 2,
+        "frequency": 30
+    },
+    {
+        "id": 15,
+        "character": "\u2F0E",
+        "pinyin": "bing1",
+        "strokeCount": 2,
+        "frequency": 115
+    },
+    {
+        "id": 16,
+        "character": "\u2F0F",
+        "pinyin": "ji1",
+        "strokeCount": 2,
+        "frequency": 38
+    },
+    {
+        "id": 17,
+        "character": "\u2F10",
+        "pinyin": "kan3",
+        "strokeCount": 2,
+        "frequency": 23
+    },
+    {
+        "id": 18,
+        "character": "\u2F11",
+        "pinyin": "dao1",
+        "strokeCount": 2,
+        "frequency": 377
+    },
+    {
+        "id": 19,
+        "character": "\u2F12",
+        "pinyin": "li4",
+        "strokeCount": 2,
+        "frequency": 163
+    },
+    {
+        "id": 20,
+        "character": "\u2F13",
+        "pinyin": "bao1",
+        "strokeCount": 2,
+        "frequency": 64
+    },
+    {
+        "id": 21,
+        "character": "\u2F14",
+        "pinyin": "",
+        "strokeCount": 1,
+        "frequency": 19
+    },
+    {
+        "id": 22,
+        "character": "\u2F15",
+        "pinyin": "bi3",
+        "strokeCount": 2,
+        "frequency": 64
+    },
+    {
+        "id": 23,
+        "character": "\u2F16",
+        "pinyin": "xi3",
+        "strokeCount": 2,
+        "frequency": 17
+    },
+    {
+        "id": 24,
+        "character": "\u2F17",
+        "pinyin": "shi2",
+        "strokeCount": 2,
+        "frequency": 55
+    },
+    {
+        "id": 25,
+        "character": "\u2F18",
+        "pinyin": "bu3",
+        "strokeCount": 2,
+        "frequency": 45
+    },
+    {
+        "id": 26,
+        "character": "\u2F19",
+        "pinyin": "jie2",
+        "strokeCount": 2,
+        "frequency": 40
+    },
+    {
+        "id": 27,
+        "character": "\u2F1A",
+        "pinyin": "han3",
+        "strokeCount": 2,
+        "frequency": 129
+    },
+    {
+        "id": 28,
+        "character": "\u2F1B",
+        "pinyin": "si1",
+        "strokeCount": 2,
+        "frequency": 40
+    },
+    {
+        "id": 29,
+        "character": "\u2F1C",
+        "pinyin": "you4",
+        "strokeCount": 2,
+        "frequency": 91
+    },
+    {
+        "id": 30,
+        "character": "\u2F1D",
+        "pinyin": "kou3",
+        "strokeCount": 3,
+        "frequency": 1146
+    },
+    {
+        "id": 31,
+        "character": "\u2F1E",
+        "pinyin": "wei2",
+        "strokeCount": 3,
+        "frequency": 118
+    },
+    {
+        "id": 32,
+        "character": "\u2F1F",
+        "pinyin": "tu3",
+        "strokeCount": 3,
+        "frequency": 580
+    },
+    {
+        "id": 33,
+        "character": "\u2F20",
+        "pinyin": "shi4",
+        "strokeCount": 3,
+        "frequency": 24
+    },
+    {
+        "id": 34,
+        "character": "\u2F21",
+        "pinyin": "zhi3",
+        "strokeCount": 3,
+        "frequency": 11
+    },
+    {
+        "id": 35,
+        "character": "\u2F22",
+        "pinyin": "sui1",
+        "strokeCount": 3,
+        "frequency": 23
+    },
+    {
+        "id": 36,
+        "character": "\u2F23",
+        "pinyin": "xi1",
+        "strokeCount": 3,
+        "frequency": 34
+    },
+    {
+        "id": 37,
+        "character": "\u2F24",
+        "pinyin": "da4",
+        "strokeCount": 3,
+        "frequency": 132
+    },
+    {
+        "id": 38,
+        "character": "\u2F25",
+        "pinyin": "nv3",
+        "strokeCount": 3,
+        "frequency": 681
+    },
+    {
+        "id": 39,
+        "character": "\u2F26",
+        "pinyin": "zi3",
+        "strokeCount": 3,
+        "frequency": 83
+    },
+    {
+        "id": 40,
+        "character": "\u2F27",
+        "pinyin": "mian2",
+        "strokeCount": 3,
+        "frequency": 246
+    },
+    {
+        "id": 41,
+        "character": "\u2F28",
+        "pinyin": "cun4",
+        "strokeCount": 3,
+        "frequency": 40
+    },
+    {
+        "id": 42,
+        "character": "\u2F29",
+        "pinyin": "xiao3",
+        "strokeCount": 3,
+        "frequency": 41
+    },
+    {
+        "id": 43,
+        "character": "\u2F2A",
+        "pinyin": "wang1",
+        "strokeCount": 3,
+        "frequency": 66
+    },
+    {
+        "id": 44,
+        "character": "\u2F2B",
+        "pinyin": "shi1",
+        "strokeCount": 3,
+        "frequency": 148
+    },
+    {
+        "id": 45,
+        "character": "\u2F2C",
+        "pinyin": "che4",
+        "strokeCount": 3,
+        "frequency": 38
+    },
+    {
+        "id": 46,
+        "character": "\u2F2D",
+        "pinyin": "shan1",
+        "strokeCount": 3,
+        "frequency": 636
+    },
+    {
+        "id": 47,
+        "character": "\u2F2E",
+        "pinyin": "chuan1",
+        "strokeCount": 3,
+        "frequency": 26
+    },
+    {
+        "id": 48,
+        "character": "\u2F2F",
+        "pinyin": "gong1",
+        "strokeCount": 3,
+        "frequency": 17
+    },
+    {
+        "id": 49,
+        "character": "\u2F30",
+        "pinyin": "ji3",
+        "strokeCount": 3,
+        "frequency": 20
+    },
+    {
+        "id": 50,
+        "character": "\u2F31",
+        "pinyin": "jin1",
+        "strokeCount": 3,
+        "frequency": 295
+    },
+    {
+        "id": 51,
+        "character": "\u2F32",
+        "pinyin": "gan1",
+        "strokeCount": 3,
+        "frequency": 9
+    },
+    {
+        "id": 52,
+        "character": "\u2F33",
+        "pinyin": "yao1",
+        "strokeCount": 3,
+        "frequency": 50
+    },
+    {
+        "id": 53,
+        "character": "\u2F34",
+        "pinyin": "guang3",
+        "strokeCount": 3,
+        "frequency": 15
+    },
+    {
+        "id": 54,
+        "character": "\u2F35",
+        "pinyin": "yin3",
+        "strokeCount": 3,
+        "frequency": 9
+    },
+    {
+        "id": 55,
+        "character": "\u2F36",
+        "pinyin": "gong3",
+        "strokeCount": 3,
+        "frequency": 50
+    },
+    {
+        "id": 56,
+        "character": "\u2F37",
+        "pinyin": "yi4",
+        "strokeCount": 3,
+        "frequency": 15
+    },
+    {
+        "id": 57,
+        "character": "\u2F38",
+        "pinyin": "gong1",
+        "strokeCount": 3,
+        "frequency": 165
+    },
+    {
+        "id": 58,
+        "character": "\u2F39",
+        "pinyin": "ji4",
+        "strokeCount": 3,
+        "frequency": 25
+    },
+    {
+        "id": 59,
+        "character": "\u2F3A",
+        "pinyin": "shan1",
+        "strokeCount": 3,
+        "frequency": 62
+    },
+    {
+        "id": 60,
+        "character": "\u2F3B",
+        "pinyin": "chi4",
+        "strokeCount": 3,
+        "frequency": 215
+    },
+    {
+        "id": 61,
+        "character": "\u2F3C",
+        "pinyin": "xin1",
+        "strokeCount": 4,
+        "frequency": 1115
+    },
+    {
+        "id": 62,
+        "character": "\u2F3D",
+        "pinyin": "ge1",
+        "strokeCount": 4,
+        "frequency": 116
+    },
+    {
+        "id": 63,
+        "character": "\u2F3E",
+        "pinyin": "hu4",
+        "strokeCount": 4,
+        "frequency": 44
+    },
+    {
+        "id": 64,
+        "character": "\u2F3F",
+        "pinyin": "shou3",
+        "strokeCount": 4,
+        "frequency": 1203
+    },
+    {
+        "id": 65,
+        "character": "\u2F40",
+        "pinyin": "zhi1",
+        "strokeCount": 4,
+        "frequency": 26
+    },
+    {
+        "id": 66,
+        "character": "\u2F41",
+        "pinyin": "pu1",
+        "strokeCount": 4,
+        "frequency": 296
+    },
+    {
+        "id": 67,
+        "character": "\u2F42",
+        "pinyin": "wen2",
+        "strokeCount": 4,
+        "frequency": 26
+    },
+    {
+        "id": 68,
+        "character": "\u2F43",
+        "pinyin": "dou3",
+        "strokeCount": 4,
+        "frequency": 32
+    },
+    {
+        "id": 69,
+        "character": "\u2F44",
+        "pinyin": "jin1",
+        "strokeCount": 4,
+        "frequency": 55
+    },
+    {
+        "id": 70,
+        "character": "\u2F45",
+        "pinyin": "fang1",
+        "strokeCount": 4,
+        "frequency": 92
+    },
+    {
+        "id": 71,
+        "character": "\u2F46",
+        "pinyin": "wu2",
+        "strokeCount": 4,
+        "frequency": 12
+    },
+    {
+        "id": 72,
+        "character": "\u2F47",
+        "pinyin": "ri4",
+        "strokeCount": 4,
+        "frequency": 453
+    },
+    {
+        "id": 73,
+        "character": "\u2F48",
+        "pinyin": "yue1",
+        "strokeCount": 4,
+        "frequency": 37
+    },
+    {
+        "id": 74,
+        "character": "\u2F49",
+        "pinyin": "yue4",
+        "strokeCount": 4,
+        "frequency": 69
+    },
+    {
+        "id": 75,
+        "character": "\u2F4A",
+        "pinyin": "mu4",
+        "strokeCount": 4,
+        "frequency": 1369
+    },
+    {
+        "id": 76,
+        "character": "\u2F4B",
+        "pinyin": "qian4",
+        "strokeCount": 4,
+        "frequency": 235
+    },
+    {
+        "id": 77,
+        "character": "\u2F4C",
+        "pinyin": "zhi3",
+        "strokeCount": 4,
+        "frequency": 99
+    },
+    {
+        "id": 78,
+        "character": "\u2F4D",
+        "pinyin": "dai3",
+        "strokeCount": 4,
+        "frequency": 231
+    },
+    {
+        "id": 79,
+        "character": "\u2F4E",
+        "pinyin": "shu1",
+        "strokeCount": 4,
+        "frequency": 93
+    },
+    {
+        "id": 80,
+        "character": "\u2F4F",
+        "pinyin": "wu2",
+        "strokeCount": 4,
+        "frequency": 16
+    },
+    {
+        "id": 81,
+        "character": "\u2F50",
+        "pinyin": "bi3",
+        "strokeCount": 4,
+        "frequency": 21
+    },
+    {
+        "id": 82,
+        "character": "\u2F51",
+        "pinyin": "mao2",
+        "strokeCount": 4,
+        "frequency": 211
+    },
+    {
+        "id": 83,
+        "character": "\u2F52",
+        "pinyin": "shi4",
+        "strokeCount": 4,
+        "frequency": 10
+    },
+    {
+        "id": 84,
+        "character": "\u2F53",
+        "pinyin": "qi4",
+        "strokeCount": 4,
+        "frequency": 17
+    },
+    {
+        "id": 85,
+        "character": "\u2F54",
+        "pinyin": "shui3",
+        "strokeCount": 4,
+        "frequency": 1595
+    },
+    {
+        "id": 86,
+        "character": "\u2F55",
+        "pinyin": "huo3",
+        "strokeCount": 4,
+        "frequency": 639
+    },
+    {
+        "id": 87,
+        "character": "\u2F56",
+        "pinyin": "zhao3",
+        "strokeCount": 4,
+        "frequency": 36
+    },
+    {
+        "id": 88,
+        "character": "\u2F57",
+        "pinyin": "fu4",
+        "strokeCount": 4,
+        "frequency": 10
+    },
+    {
+        "id": 89,
+        "character": "\u2F58",
+        "pinyin": "yao2",
+        "strokeCount": 4,
+        "frequency": 16
+    },
+    {
+        "id": 90,
+        "character": "\u2F59",
+        "pinyin": "qiang2",
+        "strokeCount": 4,
+        "frequency": 48
+    },
+    {
+        "id": 91,
+        "character": "\u2F5A",
+        "pinyin": "pian4",
+        "strokeCount": 4,
+        "frequency": 77
+    },
+    {
+        "id": 92,
+        "character": "\u2F5B",
+        "pinyin": "ya2",
+        "strokeCount": 4,
+        "frequency": 9
+    },
+    {
+        "id": 93,
+        "character": "\u2F5C",
+        "pinyin": "niu2",
+        "strokeCount": 4,
+        "frequency": 233
+    },
+    {
+        "id": 94,
+        "character": "\u2F5D",
+        "pinyin": "quan3",
+        "strokeCount": 4,
+        "frequency": 444
+    },
+    {
+        "id": 95,
+        "character": "\u2F5E",
+        "pinyin": "xuan2",
+        "strokeCount": 5,
+        "frequency": 6
+    },
+    {
+        "id": 96,
+        "character": "\u2F5F",
+        "pinyin": "yu4",
+        "strokeCount": 5,
+        "frequency": 473
+    },
+    {
+        "id": 97,
+        "character": "\u2F60",
+        "pinyin": "gua1",
+        "strokeCount": 5,
+        "frequency": 55
+    },
+    {
+        "id": 98,
+        "character": "\u2F61",
+        "pinyin": "wa3",
+        "strokeCount": 5,
+        "frequency": 174
+    },
+    {
+        "id": 99,
+        "character": "\u2F62",
+        "pinyin": "gan1",
+        "strokeCount": 5,
+        "frequency": 22
+    },
+    {
+        "id": 100,
+        "character": "\u2F63",
+        "pinyin": "sheng1",
+        "strokeCount": 5,
+        "frequency": 22
+    },
+    {
+        "id": 101,
+        "character": "\u2F64",
+        "pinyin": "yong4",
+        "strokeCount": 5,
+        "frequency": 10
+    },
+    {
+        "id": 102,
+        "character": "\u2F65",
+        "pinyin": "tian2",
+        "strokeCount": 5,
+        "frequency": 192
+    },
+    {
+        "id": 103,
+        "character": "\u2F66",
+        "pinyin": "pi3",
+        "strokeCount": 5,
+        "frequency": 15
+    },
+    {
+        "id": 104,
+        "character": "\u2F67",
+        "pinyin": "ne4",
+        "strokeCount": 5,
+        "frequency": 526
+    },
+    {
+        "id": 105,
+        "character": "\u2F68",
+        "pinyin": "bo1",
+        "strokeCount": 5,
+        "frequency": 15
+    },
+    {
+        "id": 106,
+        "character": "\u2F69",
+        "pinyin": "bai2",
+        "strokeCount": 5,
+        "frequency": 109
+    },
+    {
+        "id": 107,
+        "character": "\u2F6A",
+        "pinyin": "pi2",
+        "strokeCount": 5,
+        "frequency": 94
+    },
+    {
+        "id": 108,
+        "character": "\u2F6B",
+        "pinyin": "min3",
+        "strokeCount": 5,
+        "frequency": 129
+    },
+    {
+        "id": 109,
+        "character": "\u2F6C",
+        "pinyin": "mu4",
+        "strokeCount": 5,
+        "frequency": 647
+    },
+    {
+        "id": 110,
+        "character": "\u2F6D",
+        "pinyin": "mao2",
+        "strokeCount": 5,
+        "frequency": 65
+    },
+    {
+        "id": 111,
+        "character": "\u2F6E",
+        "pinyin": "shi3",
+        "strokeCount": 5,
+        "frequency": 64
+    },
+    {
+        "id": 112,
+        "character": "\u2F6F",
+        "pinyin": "shi2",
+        "strokeCount": 5,
+        "frequency": 499
+    },
+    {
+        "id": 113,
+        "character": "\u2F70",
+        "pinyin": "shi4",
+        "strokeCount": 5,
+        "frequency": 213
+    },
+    {
+        "id": 114,
+        "character": "\u2F71",
+        "pinyin": "rou2",
+        "strokeCount": 5,
+        "frequency": 12
+    },
+    {
+        "id": 115,
+        "character": "\u2F72",
+        "pinyin": "he2",
+        "strokeCount": 5,
+        "frequency": 431
+    },
+    {
+        "id": 116,
+        "character": "\u2F73",
+        "pinyin": "xue2",
+        "strokeCount": 5,
+        "frequency": 298
+    },
+    {
+        "id": 117,
+        "character": "\u2F74",
+        "pinyin": "li4",
+        "strokeCount": 5,
+        "frequency": 101
+    },
+    {
+        "id": 118,
+        "character": "\u2F75",
+        "pinyin": "zhu2",
+        "strokeCount": 6,
+        "frequency": 953
+    },
+    {
+        "id": 119,
+        "character": "\u2F76",
+        "pinyin": "mi3",
+        "strokeCount": 6,
+        "frequency": 318
+    },
+    {
+        "id": 120,
+        "character": "\u2F77",
+        "pinyin": "mi4",
+        "strokeCount": 6,
+        "frequency": 823
+    },
+    {
+        "id": 121,
+        "character": "\u2F78",
+        "pinyin": "fou3",
+        "strokeCount": 6,
+        "frequency": 77
+    },
+    {
+        "id": 122,
+        "character": "\u2F79",
+        "pinyin": "wang3",
+        "strokeCount": 6,
+        "frequency": 163
+    },
+    {
+        "id": 123,
+        "character": "\u2F7A",
+        "pinyin": "yang2",
+        "strokeCount": 6,
+        "frequency": 156
+    },
+    {
+        "id": 124,
+        "character": "\u2F7B",
+        "pinyin": "yu3",
+        "strokeCount": 6,
+        "frequency": 220
+    },
+    {
+        "id": 125,
+        "character": "\u2F7C",
+        "pinyin": "lao3",
+        "strokeCount": 6,
+        "frequency": 22
+    },
+    {
+        "id": 126,
+        "character": "\u2F7D",
+        "pinyin": "er2",
+        "strokeCount": 6,
+        "frequency": 22
+    },
+    {
+        "id": 127,
+        "character": "\u2F7E",
+        "pinyin": "lei3",
+        "strokeCount": 6,
+        "frequency": 84
+    },
+    {
+        "id": 128,
+        "character": "\u2F7F",
+        "pinyin": "er3",
+        "strokeCount": 6,
+        "frequency": 172
+    },
+    {
+        "id": 129,
+        "character": "\u2F80",
+        "pinyin": "yu4",
+        "strokeCount": 6,
+        "frequency": 19
+    },
+    {
+        "id": 130,
+        "character": "\u2F81",
+        "pinyin": "rou4",
+        "strokeCount": 6,
+        "frequency": 674
+    },
+    {
+        "id": 131,
+        "character": "\u2F82",
+        "pinyin": "chen2",
+        "strokeCount": 6,
+        "frequency": 16
+    },
+    {
+        "id": 132,
+        "character": "\u2F83",
+        "pinyin": "zi4",
+        "strokeCount": 6,
+        "frequency": 34
+    },
+    {
+        "id": 133,
+        "character": "\u2F84",
+        "pinyin": "zhi4",
+        "strokeCount": 6,
+        "frequency": 24
+    },
+    {
+        "id": 134,
+        "character": "\u2F85",
+        "pinyin": "jiu4",
+        "strokeCount": 6,
+        "frequency": 71
+    },
+    {
+        "id": 135,
+        "character": "\u2F86",
+        "pinyin": "she2",
+        "strokeCount": 6,
+        "frequency": 31
+    },
+    {
+        "id": 136,
+        "character": "\u2F87",
+        "pinyin": "chuan3",
+        "strokeCount": 6,
+        "frequency": 10
+    },
+    {
+        "id": 137,
+        "character": "\u2F88",
+        "pinyin": "zhou1",
+        "strokeCount": 6,
+        "frequency": 197
+    },
+    {
+        "id": 138,
+        "character": "\u2F89",
+        "pinyin": "gen4",
+        "strokeCount": 6,
+        "frequency": 5
+    },
+    {
+        "id": 139,
+        "character": "\u2F8A",
+        "pinyin": "se4",
+        "strokeCount": 6,
+        "frequency": 21
+    },
+    {
+        "id": 140,
+        "character": "\u2F8B",
+        "pinyin": "cao3",
+        "strokeCount": 6,
+        "frequency": 1902
+    },
+    {
+        "id": 141,
+        "character": "\u2F8C",
+        "pinyin": "hu1",
+        "strokeCount": 6,
+        "frequency": 114
+    },
+    {
+        "id": 142,
+        "character": "\u2F8D",
+        "pinyin": "chong2",
+        "strokeCount": 6,
+        "frequency": 1067
+    },
+    {
+        "id": 143,
+        "character": "\u2F8E",
+        "pinyin": "xue4",
+        "strokeCount": 6,
+        "frequency": 60
+    },
+    {
+        "id": 144,
+        "character": "\u2F8F",
+        "pinyin": "xing2",
+        "strokeCount": 6,
+        "frequency": 53
+    },
+    {
+        "id": 145,
+        "character": "\u2F90",
+        "pinyin": "yi1",
+        "strokeCount": 6,
+        "frequency": 607
+    },
+    {
+        "id": 146,
+        "character": "\u2F91",
+        "pinyin": "ya4",
+        "strokeCount": 6,
+        "frequency": 29
+    },
+    {
+        "id": 147,
+        "character": "\u2F92",
+        "pinyin": "jian4",
+        "strokeCount": 7,
+        "frequency": 161
+    },
+    {
+        "id": 148,
+        "character": "\u2F93",
+        "pinyin": "jiao3",
+        "strokeCount": 7,
+        "frequency": 158
+    },
+    {
+        "id": 149,
+        "character": "\u2F94",
+        "pinyin": "yan2",
+        "strokeCount": 7,
+        "frequency": 861
+    },
+    {
+        "id": 150,
+        "character": "\u2F95",
+        "pinyin": "gu3",
+        "strokeCount": 7,
+        "frequency": 54
+    },
+    {
+        "id": 151,
+        "character": "\u2F96",
+        "pinyin": "dou4",
+        "strokeCount": 7,
+        "frequency": 68
+    },
+    {
+        "id": 152,
+        "character": "\u2F97",
+        "pinyin": "shi3",
+        "strokeCount": 7,
+        "frequency": 148
+    },
+    {
+        "id": 153,
+        "character": "\u2F98",
+        "pinyin": "zhi4",
+        "strokeCount": 7,
+        "frequency": 140
+    },
+    {
+        "id": 154,
+        "character": "\u2F99",
+        "pinyin": "bei4",
+        "strokeCount": 7,
+        "frequency": 277
+    },
+    {
+        "id": 155,
+        "character": "\u2F9A",
+        "pinyin": "chi4",
+        "strokeCount": 7,
+        "frequency": 31
+    },
+    {
+        "id": 156,
+        "character": "\u2F9B",
+        "pinyin": "zou3",
+        "strokeCount": 7,
+        "frequency": 285
+    },
+    {
+        "id": 157,
+        "character": "\u2F9C",
+        "pinyin": "zu2",
+        "strokeCount": 7,
+        "frequency": 580
+    },
+    {
+        "id": 158,
+        "character": "\u2F9D",
+        "pinyin": "shen1",
+        "strokeCount": 7,
+        "frequency": 97
+    },
+    {
+        "id": 159,
+        "character": "\u2F9E",
+        "pinyin": "che1",
+        "strokeCount": 7,
+        "frequency": 361
+    },
+    {
+        "id": 160,
+        "character": "\u2F9F",
+        "pinyin": "xin1",
+        "strokeCount": 7,
+        "frequency": 36
+    },
+    {
+        "id": 161,
+        "character": "\u2FA0",
+        "pinyin": "chen2",
+        "strokeCount": 7,
+        "frequency": 15
+    },
+    {
+        "id": 162,
+        "character": "\u2FA1",
+        "pinyin": "chuo4",
+        "strokeCount": 7,
+        "frequency": 381
+    },
+    {
+        "id": 163,
+        "character": "\u2FA2",
+        "pinyin": "yi4",
+        "strokeCount": 7,
+        "frequency": 350
+    },
+    {
+        "id": 164,
+        "character": "\u2FA3",
+        "pinyin": "you3",
+        "strokeCount": 7,
+        "frequency": 290
+    },
+    {
+        "id": 165,
+        "character": "\u2FA4",
+        "pinyin": "bian4",
+        "strokeCount": 7,
+        "frequency": 14
+    },
+    {
+        "id": 166,
+        "character": "\u2FA5",
+        "pinyin": "li3",
+        "strokeCount": 7,
+        "frequency": 14
+    },
+    {
+        "id": 167,
+        "character": "\u2FA6",
+        "pinyin": "jin1",
+        "strokeCount": 8,
+        "frequency": 806
+    },
+    {
+        "id": 168,
+        "character": "\u2FA7",
+        "pinyin": "chang2",
+        "strokeCount": 8,
+        "frequency": 55
+    },
+    {
+        "id": 169,
+        "character": "\u2FA8",
+        "pinyin": "men2",
+        "strokeCount": 8,
+        "frequency": 246
+    },
+    {
+        "id": 170,
+        "character": "\u2FA9",
+        "pinyin": "fu4",
+        "strokeCount": 8,
+        "frequency": 348
+    },
+    {
+        "id": 171,
+        "character": "\u2FAA",
+        "pinyin": "li4",
+        "strokeCount": 8,
+        "frequency": 12
+    },
+    {
+        "id": 172,
+        "character": "\u2FAB",
+        "pinyin": "zhui1",
+        "strokeCount": 8,
+        "frequency": 233
+    },
+    {
+        "id": 173,
+        "character": "\u2FAC",
+        "pinyin": "yu3",
+        "strokeCount": 8,
+        "frequency": 298
+    },
+    {
+        "id": 174,
+        "character": "\u2FAD",
+        "pinyin": "qing1",
+        "strokeCount": 8,
+        "frequency": 17
+    },
+    {
+        "id": 175,
+        "character": "\u2FAE",
+        "pinyin": "fei1",
+        "strokeCount": 8,
+        "frequency": 25
+    },
+    {
+        "id": 176,
+        "character": "\u2FAF",
+        "pinyin": "mian4",
+        "strokeCount": 8,
+        "frequency": 66
+    },
+    {
+        "id": 177,
+        "character": "\u2FB0",
+        "pinyin": "ge2",
+        "strokeCount": 9,
+        "frequency": 305
+    },
+    {
+        "id": 178,
+        "character": "\u2FB1",
+        "pinyin": "wei2",
+        "strokeCount": 9,
+        "frequency": 100
+    },
+    {
+        "id": 179,
+        "character": "\u2FB2",
+        "pinyin": "jiu3",
+        "strokeCount": 9,
+        "frequency": 20
+    },
+    {
+        "id": 180,
+        "character": "\u2FB3",
+        "pinyin": "yin1",
+        "strokeCount": 9,
+        "frequency": 43
+    },
+    {
+        "id": 181,
+        "character": "\u2FB4",
+        "pinyin": "ye4",
+        "strokeCount": 9,
+        "frequency": 372
+    },
+    {
+        "id": 182,
+        "character": "\u2FB5",
+        "pinyin": "feng1",
+        "strokeCount": 9,
+        "frequency": 182
+    },
+    {
+        "id": 183,
+        "character": "\u2FB6",
+        "pinyin": "fei1",
+        "strokeCount": 9,
+        "frequency": 92
+    },
+    {
+        "id": 184,
+        "character": "\u2FB7",
+        "pinyin": "shi2",
+        "strokeCount": 9,
+        "frequency": 403
+    },
+    {
+        "id": 185,
+        "character": "\u2FB8",
+        "pinyin": "shou3",
+        "strokeCount": 9,
+        "frequency": 20
+    },
+    {
+        "id": 186,
+        "character": "\u2FB9",
+        "pinyin": "xiang1",
+        "strokeCount": 9,
+        "frequency": 37
+    },
+    {
+        "id": 187,
+        "character": "\u2FBA",
+        "pinyin": "ma3",
+        "strokeCount": 10,
+        "frequency": 472
+    },
+    {
+        "id": 188,
+        "character": "\u2FBB",
+        "pinyin": "gu3",
+        "strokeCount": 10,
+        "frequency": 185
+    },
+    {
+        "id": 189,
+        "character": "\u2FBC",
+        "pinyin": "gao1",
+        "strokeCount": 10,
+        "frequency": 34
+    },
+    {
+        "id": 190,
+        "character": "\u2FBD",
+        "pinyin": "biao1",
+        "strokeCount": 10,
+        "frequency": 243
+    },
+    {
+        "id": 191,
+        "character": "\u2FBE",
+        "pinyin": "dou4",
+        "strokeCount": 10,
+        "frequency": 23
+    },
+    {
+        "id": 192,
+        "character": "\u2FBF",
+        "pinyin": "chang4",
+        "strokeCount": 10,
+        "frequency": 8
+    },
+    {
+        "id": 193,
+        "character": "\u2FC0",
+        "pinyin": "li4",
+        "strokeCount": 10,
+        "frequency": 73
+    },
+    {
+        "id": 194,
+        "character": "\u2FC1",
+        "pinyin": "gui3",
+        "strokeCount": 10,
+        "frequency": 141
+    },
+    {
+        "id": 195,
+        "character": "\u2FC2",
+        "pinyin": "yu2",
+        "strokeCount": 11,
+        "frequency": 571
+    },
+    {
+        "id": 196,
+        "character": "\u2FC3",
+        "pinyin": "niao3",
+        "strokeCount": 11,
+        "frequency": 750
+    },
+    {
+        "id": 197,
+        "character": "\u2FC4",
+        "pinyin": "lu3",
+        "strokeCount": 11,
+        "frequency": 44
+    },
+    {
+        "id": 198,
+        "character": "\u2FC5",
+        "pinyin": "lu4",
+        "strokeCount": 11,
+        "frequency": 104
+    },
+    {
+        "id": 199,
+        "character": "\u2FC6",
+        "pinyin": "mai4",
+        "strokeCount": 11,
+        "frequency": 131
+    },
+    {
+        "id": 200,
+        "character": "\u2FC7",
+        "pinyin": "ma2",
+        "strokeCount": 11,
+        "frequency": 34
+    },
+    {
+        "id": 201,
+        "character": "\u2FC8",
+        "pinyin": "huang2",
+        "strokeCount": 11,
+        "frequency": 42
+    },
+    {
+        "id": 202,
+        "character": "\u2FC9",
+        "pinyin": "shu3",
+        "strokeCount": 11,
+        "frequency": 46
+    },
+    {
+        "id": 203,
+        "character": "\u2FCA",
+        "pinyin": "hei1",
+        "strokeCount": 12,
+        "frequency": 172
+    },
+    {
+        "id": 204,
+        "character": "\u2FCB",
+        "pinyin": "zhi3",
+        "strokeCount": 12,
+        "frequency": 8
+    },
+    {
+        "id": 205,
+        "character": "\u2FCC",
+        "pinyin": "min3",
+        "strokeCount": 13,
+        "frequency": 40
+    },
+    {
+        "id": 206,
+        "character": "\u2FCD",
+        "pinyin": "ding3",
+        "strokeCount": 13,
+        "frequency": 14
+    },
+    {
+        "id": 207,
+        "character": "\u2FCE",
+        "pinyin": "gu3",
+        "strokeCount": 13,
+        "frequency": 46
+    },
+    {
+        "id": 208,
+        "character": "\u2FCF",
+        "pinyin": "shu3",
+        "strokeCount": 13,
+        "frequency": 92
+    },
+    {
+        "id": 209,
+        "character": "\u2FD0",
+        "pinyin": "bi2",
+        "strokeCount": 13,
+        "frequency": 49
+    },
+    {
+        "id": 210,
+        "character": "\u2FD1",
+        "pinyin": "qi2",
+        "strokeCount": 14,
+        "frequency": 18
+    },
+    {
+        "id": 211,
+        "character": "\u2FD2",
+        "pinyin": "chi3",
+        "strokeCount": 15,
+        "frequency": 162
+    },
+    {
+        "id": 212,
+        "character": "\u2FD3",
+        "pinyin": "long2",
+        "strokeCount": 16,
+        "frequency": 14
+    },
+    {
+        "id": 213,
+        "character": "\u2FD4",
+        "pinyin": "gui1",
+        "strokeCount": 16,
+        "frequency": 24
+    },
+    {
+        "id": 214,
+        "character": "\u2FD5",
+        "pinyin": "yue4",
+        "strokeCount": 17,
+        "frequency": 19
+    } 
+]

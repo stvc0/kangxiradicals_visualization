@@ -13,18 +13,12 @@ const buttonChunk = document.getElementById("button-chunk");
 // var tableType = chart;
 
 /* Get the json file. */
-let requestURL = "https://raw.githubusercontent.com/erntan/kangxiradicals_visualization/master/data.json";
-let request = new XMLHttpRequest();
-request.open('GET', requestURL);
-request.responseType = "json";
-request.send();
-
-request.onload = function () {
-  const charactersJSON = request.response;
-  const radsJSON = charactersJSON["radicals"];
-  createRadicalsTable(radsJSON);
-  // createStrokeHistogram(radsJSON);
-}
+const fetchPromise = fetch('https://raw.githubusercontent.com/wordmunch/kangxiradicals_visualization/master/data.json');
+fetchPromise
+  .then((response) => response.json())
+  .then((data) => {
+    console.log(data)
+  })
 
 /* Create divs for the number of strokes */
 function createStrokeDivs() {
