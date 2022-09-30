@@ -9,16 +9,32 @@ const buttonChart = document.getElementById("button-chart");
 const buttonHistStroke = document.getElementById("button-histogram-stroke");
 const buttonHistFreq = document.getElementById("button-histogram-frequency");
 const buttonChunk = document.getElementById("button-chunk");
-
+const radList = [];
 // var tableType = chart;
 
 /* Get the json file. */
-const fetchPromise = fetch('https://raw.githubusercontent.com/wordmunch/kangxiradicals_visualization/master/data.json');
-fetchPromise
-  .then((response) => response.json())
-  .then((data) => {
-    console.log(data)
+const fetchRads = fetch('https://raw.githubusercontent.com/wordmunch/kangxiradicals_visualization/master/data.json');
+
+fetchRads
+  .then((response) => {
+    if (!response.ok) {
+      throw new Error(`HTTP error: ${response.status}`);
+    }
+    return response.json();
   })
+  .then((data) => {
+    for (let item of data) {
+      radList.push(item);
+    }
+  })
+  .catch((error) => {
+    console.error(`Could not get radicals: ${error}`);
+  })
+
+/* Create button action for buttonChart */
+buttonChart.addEventListener('click', () => {
+  createRadicalsTable(radList);
+});
 
 /* Create divs for the number of strokes */
 function createStrokeDivs() {
@@ -30,7 +46,11 @@ function createStrokeDivs() {
   }
 }
 
-/* Create and populate the radicals table. */
+/* 
+  Create and populate the radicals table. 
+  TODO: add param: orderBy = character, frequenct, etc
+  TODO: sort elements by chosen value
+  */
 function createRadicalsTable(obj) {
   for (let i = 0; i < numRadicals; i++) {
     const radDiv = document.createElement("div");
